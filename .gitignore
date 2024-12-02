@@ -1,0 +1,7 @@
+*.txt
+.vscode
+.bsp
+.scala-build
+2024/*/rust/target
+2024/*/rust/Cargo.lock
+/src
