@@ -4,7 +4,7 @@ import bt.aoc2024.d1.Day8.*
 import cats.effect.*
 import cats.Id
 
-class MatrixSpec extends AnyFlatSpec with Matchers {
+class Day8Spec extends AnyFlatSpec with Matchers {
   // Arrange
   val initialMatrix = Matrix(
     """
